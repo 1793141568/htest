@@ -1,0 +1,11 @@
+[ {
+  "uid" : "4bf28299aa5543fb",
+  "name" : "D:\\PyCharm\\htest\\testcase\\sys.test_sys_changePwd.Test_ChangePwd.test_changepwd_success",
+  "time" : {
+    "start" : 1554608420069,
+    "stop" : 1554608420157,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

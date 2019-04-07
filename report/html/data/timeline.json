@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-0MOLM5P",
+    "children" : [ {
+      "name" : "143936-MainThread",
+      "children" : [ {
+        "name" : "D:\\PyCharm\\htest\\testcase\\sys.test_sys_changePwd.Test_ChangePwd.test_changepwd_success",
+        "uid" : "4bf28299aa5543fb",
+        "parentUid" : "e57a2f99ace4c1dddfd0f1d4a6772f4c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608420069,
+          "stop" : 1554608420157,
+          "duration" : 88
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e57a2f99ace4c1dddfd0f1d4a6772f4c"
+    } ],
+    "uid" : "48bf6594af3ee2a6ae5083cbe93a39a8"
+  } ]
+}

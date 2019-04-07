@@ -1,0 +1,20 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554608420069" stop="1554608420157">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554608420069" status="passed" stop="1554608420157">
+      <name>D:\PyCharm\htest\testcase\sys.test_sys_changePwd.Test_ChangePwd.test_changepwd_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="修改密码成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="143936-MainThread"/>
+        <label name="host" value="DESKTOP-0MOLM5P"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
